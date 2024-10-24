@@ -12,8 +12,7 @@
     "com.unity.xr.openxr": "1.8.2",
     "com.unity.xr.arfoundation": "4.2.7",
     "com.unity.xr.interaction.toolkit": "2.3.2",
-    "com.unity.inputsystem": "1.7.0",
-    "com.unity.xr.hands": "1.4.1"
+    "com.unity.inputsystem": "1.7.0"
   },
   "author": {
     "name": "Jio Tesseract",
@@ -26,6 +25,36 @@
       "displayName": "Image Gallary",
       "description": "Contains sample shaders for the High Definition render pipeline",
       "path": "Samples~/Image Gallary"
+    },
+    {
+      "displayName": "Older_will_delete_it",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/Older_will_delete_it"
+    },
+    {
+      "displayName": "QCHT Unity Interactions",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/QCHT Unity Interactions"
+    },
+    {
+      "displayName": "Snapdragon Spaces",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/Snapdragon Spaces"
+    },
+    {
+      "displayName": "Universal RP",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/Universal RP"
+    },
+    {
+      "displayName": "XR Hands",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/XR Hands"
+    },
+    {
+      "displayName": "XR Interaction Toolkit",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/XR Interaction Toolkit"
     }
   ]
 }
